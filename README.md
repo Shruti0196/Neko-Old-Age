@@ -20,6 +20,6 @@ Yash Joshi (Django) : (https://github.com/joshiyash05)<br><br>
 <h1>Tech Stacks used : </h1>
 <h1>Solution </h1>
 Website : (https://classy-babka-1a3968.netlify.app/)<br><table><tr>
-<td><img src="https://user-images.githubusercontent.com/80119277/160216783-b8736fbc-76b3-4d3f-8392-2c5030b30933.jpeg" width="50%" height="50%"></td>
-<td><img src="https://user-images.githubusercontent.com/80119277/160216992-298ec674-c403-4b8e-8962-8b2ad08c3702.jpeg" width="50%" height="50%"></td></tr>
+<td><img src="https://user-images.githubusercontent.com/80119277/160216783-b8736fbc-76b3-4d3f-8392-2c5030b30933.jpeg"></td>
+<td><img src="https://user-images.githubusercontent.com/80119277/160216992-298ec674-c403-4b8e-8962-8b2ad08c3702.jpeg"></td></tr>
 </table>

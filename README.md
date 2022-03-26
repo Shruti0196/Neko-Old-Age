@@ -8,7 +8,7 @@ Backend :
 <br>
 <h1>Introduction </h1>
 <br>
-Hey guys! We are team NEKOMA. We are a team of 4. Rachana Yeldi and Sanika Ardekar are at the frontend(React js) and Yash Joshi and Shruti Prasad are at the backend(Django).<br>
+Hey guys! <br>We are team NEKOMA. We are a team of 4. Rachana Yeldi and Sanika Ardekar are at the frontend(React js) and Yash Joshi and Shruti Prasad are at the backend(Django).<br>
 <h1>Contributors : </h1>
 Sanika Ardekar (React js) :  (https://github.com/sanikaardekar)<br>
 Rachana Yeldi (React js) : (https://github.com/Rachana1104)<br>

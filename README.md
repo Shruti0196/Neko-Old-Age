@@ -20,4 +20,5 @@ Yash Joshi (Django) : (https://github.com/joshiyash05)<br><br>
 <h1>Tech Stacks used : </h1>
 <h1>Solution </h1>
 Website : (https://classy-babka-1a3968.netlify.app/)<br>
-![hackathon](https://user-images.githubusercontent.com/80119277/136379810-e88ffedc-f213-40fb-856d-85b8941a4833.png)
+
+![WhatsApp Image 2022-03-25 at 9 58 53 AM](https://user-images.githubusercontent.com/80119277/160216783-b8736fbc-76b3-4d3f-8392-2c5030b30933.jpeg)

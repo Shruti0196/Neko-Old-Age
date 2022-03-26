@@ -21,5 +21,15 @@ Yash Joshi (Django) : (https://github.com/joshiyash05)<br><br>
 <h1>Solution </h1>
 Website : (https://classy-babka-1a3968.netlify.app/)<br><table><tr>
 <td><img src="https://user-images.githubusercontent.com/80119277/160216783-b8736fbc-76b3-4d3f-8392-2c5030b30933.jpeg"></td>
-<td><img src="https://user-images.githubusercontent.com/80119277/160216992-298ec674-c403-4b8e-8962-8b2ad08c3702.jpeg"></td></tr>
+<td><img src="https://user-images.githubusercontent.com/80119277/160217099-e06dcb45-6856-467b-b665-5c94f6da565d.jpeg"></td></tr>
+<tr><td><img src="https://user-images.githubusercontent.com/80119277/160217173-f9add4e1-8ea4-4519-8e7e-a382ff74e6ed.jpeg"></td>
+<td><img src="https://user-images.githubusercontent.com/80119277/160217201-bef69bf4-411d-4de5-a05a-882b43f1878d.jpeg"></td></tr>
+<td><img src=""></td>
+<td><img src=""></td></tr>
+<td><img src=""></td>
+<td><img src=""></td></tr>
+<td><img src=""></td>
+<td><img src=""></td></tr>
 </table>
+
+

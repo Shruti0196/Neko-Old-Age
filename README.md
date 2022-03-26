@@ -22,3 +22,4 @@ Yash Joshi (Django) : (https://github.com/joshiyash05)<br><br>
 Website : (https://classy-babka-1a3968.netlify.app/)<br>
 
 ![WhatsApp Image 2022-03-25 at 9 58 53 AM](https://user-images.githubusercontent.com/80119277/160216783-b8736fbc-76b3-4d3f-8392-2c5030b30933.jpeg)
+<img src="https://user-images.githubusercontent.com/80119277/160216783-b8736fbc-76b3-4d3f-8392-2c5030b30933.jpeg" width="50%" height="50%">

@@ -27,7 +27,7 @@ Website : (https://classy-babka-1a3968.netlify.app/)<br><table><tr>
 <td><img src="https://user-images.githubusercontent.com/80119277/160217279-4afe2388-2037-43c8-bea0-68dd82453142.jpeg"></td>
 <td><img src="https://user-images.githubusercontent.com/80119277/160217282-3ad42fbf-af90-440a-abe2-4da79b346f88.jpeg"></td></tr>
 <td><img src="https://user-images.githubusercontent.com/80119277/160217286-a91cbb6f-9b7a-493c-9e5d-7b6cb5380184.jpeg"></td>
-<td><img src="https://user-i![WhatsApp Image 2022-03-25 at 10 08 25 AM](https://user-images.githubusercontent.com/80119277/160217295-d73fe716-6a80-4147-906f-dc657631b518.jpeg"></td></tr>
+<td><img src="https://user-images.githubusercontent.com/80119277/160217295-d73fe716-6a80-4147-906f-dc657631b518.jpeg"></td></tr>
 <td><img src="https://user-images.githubusercontent.com/80119277/160217299-d6649d45-f5b3-4f13-a6db-0fa8761dd6e0.jpeg"></td>
 <td><img src="https://user-images.githubusercontent.com/80119277/160217329-affa64a2-3a1f-48cd-bf9b-b462c77e5ac8.jpeg"></td></tr>
 </table>
